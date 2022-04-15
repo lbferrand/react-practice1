@@ -10,6 +10,7 @@
 
 h1 {
   font-size: 2.5rem;
+  color: #61dafb;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -33,6 +34,9 @@ h1 {
   color: #61dafb;
 }
 
+.App-footer {
+  font-size: 0.75rem;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
