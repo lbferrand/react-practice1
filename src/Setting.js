@@ -21,7 +21,23 @@ function Setting() {
           </ul>
           <p>
             The second option is the best way to start building a new single or
-            multiple-page application
+            multiple-page application in react.
+            <br />
+            What is create-react-app?
+            <br />
+            React app is a simple tool or a command that generates the required
+            files and folders to start the react application and run it in the
+            browser. It's also the officially support by the react team. To run
+            the 'npx create-react-app' you need to have Node.js installed on
+            your computer.
+            <br />
+            Node js is a javascript runtime that allows us to execute JS code on
+            the server. It's highly probable that you already have it installed
+            but if you don't, just visit nodejs.org and select the 'recommended
+            for most users' option.
+            <br />
+            After the installation of node.js, we can create a new folder in our
+            desktop. Let's call it 'my_react_app'
           </p>
           <br />
         </div>
