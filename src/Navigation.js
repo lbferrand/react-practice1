@@ -1,10 +1,12 @@
 import "./App.css";
+import logo from "./logo.svg";
 
 function Navigation() {
   return (
     <div className="Navigation">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
+          <img src={logo} className="App-logo1" alt="logo" />
           <a className="navbar-brand" href="#">
             Learn React
           </a>

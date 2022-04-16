@@ -2,6 +2,12 @@
   text-align: left;
 }
 
+.App-logo1 {
+  height: 5vmin;
+  pointer-events: none;
+  position: inline;
+}
+
 .App-logo {
   height: 15vmin;
   pointer-events: none;
@@ -11,6 +17,10 @@
 h1 {
   font-size: 2.5rem;
   color: #61dafb;
+}
+
+.navbar-brand {
+  display: inline-block;
 }
 
 @media (prefers-reduced-motion: no-preference) {

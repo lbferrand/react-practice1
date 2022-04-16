@@ -23,7 +23,10 @@ function App() {
                 install it
               </li>
             </ol>
-            <li>Deploy this repository to GitHub (version control)</li>
+            <li>
+              Deploy this repository to GitHub (version control) by clicking
+              "push origin" blue button
+            </li>
             <li>
               Open the file using VS Code by clicking the option inside GitHub
               Desktop
