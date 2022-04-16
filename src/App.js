@@ -54,6 +54,13 @@ function App() {
             alt="file"
             width={"400px"}
           />
+          <br />
+          Open the file 'App.js': this file will contain most of the information
+          and the components you will create. You can also create the components
+          inside the 'index.js' as the picture displays. Multiple components
+          have been created. Each component represent some of the different
+          areas of the page. When you divide the page in multiple components, it
+          becomes easy to maintain.
         </p>
         <h2>Create a new component using React</h2>
         <p>
