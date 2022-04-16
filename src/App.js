@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Practicing React</h1>
-      <h2>Pro using React</h2>
+      <h2>Pros using React</h2>
       <ol>
         <li>Easy to learn</li>
         <li>Modern framework</li>
@@ -35,7 +35,25 @@ function App() {
             <li>
               Select from the main menu in VS Code - Terminal - New Terminal
             </li>
+            <li>
+              Enter the following code in the terminal: "npx create-react-app."
+              A series of folders and files will be created for react.
+            </li>
+            <li>
+              Enter the following code in the terminal: "npm start" This line
+              will open a new page in the browser to display the page
+              localhost:3000/#
+            </li>
           </ul>
+          The 'index.html' file will have some information on it, but not the
+          actual website. Open the 'index.js' file which is located in 'src'
+          folder. This file should have already a component called "App"
+          <img
+            src="appjs.png"
+            className="App-file"
+            alt="file"
+            width={"400px"}
+          />
         </p>
         <h2>Create a new component using React</h2>
         <p>

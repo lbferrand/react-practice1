@@ -7,7 +7,7 @@ function Navigation() {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <img src={logo} className="App-logo1" alt="logo" />
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="index.html">
             Learn React
           </a>
           <button
@@ -24,23 +24,25 @@ function Navigation() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">
+                <a
+                  className="nav-link active"
+                  aria-current="page"
+                  href="index.html"
+                >
                   Home
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="features.html">
                   Features
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="pricing.html">
                   Pricing
                 </a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link disabled">Disabled</a>
-              </li>
+              <li className="nav-item"></li>
             </ul>
           </div>
         </div>
