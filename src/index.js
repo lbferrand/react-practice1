@@ -6,6 +6,8 @@ import Header from "./Header";
 import App from "./App";
 import Html from "./Html";
 import React1 from "./React1";
+import JSX from "./Jsx";
+import Setting from "./Setting";
 import Footer from "./Footer";
 import reportWebVitals from "./reportWebVitals";
 
@@ -18,6 +20,8 @@ root.render(
       <App />
       <Html />
       <React1 />
+      <JSX />
+      <Setting />
       <Footer />
     </React.StrictMode>
   </div>
