@@ -48,6 +48,7 @@ function App() {
           The 'index.html' file will have some information on it, but not the
           actual website. Open the 'index.js' file which is located in 'src'
           folder. This file should have already a component called "App"
+          <br />
           <img
             src="appjs.png"
             className="App-file"
