@@ -65,8 +65,45 @@ function App() {
         </p>
         <h2>Create a new component using React</h2>
         <p>
-          A component is a piece of code that will be inside a new file and will
-          be called through a component
+          React JS is a component-based front-end library. All part of the
+          application are divided into parts called components. A component is a
+          small piece of the user interface (UI), every react.js application is
+          a tree of components. Components let you split the UI into independent
+          reusable parts. When you are building an application using react you
+          build independent and reusable components and then you'll combine them
+          to build a full-fledged web application. In React, there are two types
+          of components:
+        </p>
+        <li>Functional componenets</li>
+        <li>Class-bassed components</li>
+        <br />
+        <p>
+          Let's see how class-bassed component works:
+          <ol>
+            <li>We import react and the structure component from react</li>
+            import React, Component from 'react'
+            <br />
+            Why do we need to import React? We need to import React to be able
+            to use the entirely of this library.
+            <br />
+            <li>
+              Then we use a regular javascript class to make a react component
+              that extends the react component already written for us in the
+              library.
+            </li>
+            <br />
+            <li>
+              Then we use the render method that describes what should be
+              displayed and how should the UI should look like.
+            </li>
+            <br />
+            <img
+              src="react-comp.png"
+              className="App-file"
+              alt="file"
+              width={"300px"}
+            />
+          </ol>
         </p>
       </div>
     </div>
