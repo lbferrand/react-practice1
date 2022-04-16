@@ -2,8 +2,10 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import Navigation from "./Navigation";
-import App from "./App";
 import Header from "./Header";
+import App from "./App";
+import Html from "./Html";
+import React1 from "./React1";
 import Footer from "./Footer";
 import reportWebVitals from "./reportWebVitals";
 
@@ -14,6 +16,8 @@ root.render(
       <Navigation />
       <Header />
       <App />
+      <Html />
+      <React1 />
       <Footer />
     </React.StrictMode>
   </div>
