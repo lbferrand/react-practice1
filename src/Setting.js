@@ -14,10 +14,10 @@ function Setting() {
             <li>Manually setting up all the things using webpack and babel</li>
             <li>Using the create-react-app command.</li>
             Select from the main menu in VS Code - Terminal - New Terminal Enter
-            the following code in the terminal: "npx create-react-app." A series
-            of folders and files will be created for react. Enter the following
-            code in the terminal: "npm start" This line will open a new page in
-            the browser to display the page localhost:3000/#
+            the following code in the terminal: "npx create-react-app ." A
+            series of folders and files will be created for react. Enter the
+            following code in the terminal: "npm start" This line will open a
+            new page in the browser to display the page localhost:3000/#
           </ul>
           <p>
             The second option is the best way to start building a new single or
